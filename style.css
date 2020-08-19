@@ -1,0 +1,15 @@
+body{
+    background: yellow;
+}
+td{
+    width: 100px;
+    height: 100px;
+    background: white;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 10px;
+}
+table{
+    margin: 20px auto;
+    border-radius: 10px;
+}
